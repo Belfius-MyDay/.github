@@ -1,1 +1,1 @@
-# This is the organization for the MyDay Project for Belfius Insurance.
+# MyDay Project for Belfius Insurance.
